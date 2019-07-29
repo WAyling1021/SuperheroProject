@@ -5038,6 +5038,12 @@ a.badge:focus {
   color: inherit;
   background-color: #eeeeee;
 }
+
+.jumbotron-photo {
+    background-image: url(https://images7.alphacoders.com/946/thumb-1920-946735.jpg);
+    background-size: cover;
+    height: 100%;
+}
 .jumbotron h1,
 .jumbotron .h1 {
   color: inherit;
